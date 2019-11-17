@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DDC786F22380FCD900509051 /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC786F12380FCD900509051 /* ContentViewModel.swift */; };
+		DDC786F42381391400509051 /* ImagePickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC786F32381391400509051 /* ImagePickerViewController.swift */; };
 		DDEB1EF8237D4B8000206351 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDEB1EF7237D4B8000206351 /* AppDelegate.swift */; };
 		DDEB1EFA237D4B8000206351 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDEB1EF9237D4B8000206351 /* SceneDelegate.swift */; };
 		DDEB1EFC237D4B8000206351 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDEB1EFB237D4B8000206351 /* ContentView.swift */; };
@@ -35,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DDC786F12380FCD900509051 /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
+		DDC786F32381391400509051 /* ImagePickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerViewController.swift; sourceTree = "<group>"; };
 		DDEB1EF4237D4B8000206351 /* studlife.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = studlife.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDEB1EF7237D4B8000206351 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DDEB1EF9237D4B8000206351 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +106,8 @@
 				DDEB1EF7237D4B8000206351 /* AppDelegate.swift */,
 				DDEB1EF9237D4B8000206351 /* SceneDelegate.swift */,
 				DDEB1EFB237D4B8000206351 /* ContentView.swift */,
+				DDC786F12380FCD900509051 /* ContentViewModel.swift */,
+				DDC786F32381391400509051 /* ImagePickerViewController.swift */,
 				DDEB1EFD237D4B8200206351 /* Assets.xcassets */,
 				DDEB1F02237D4B8200206351 /* LaunchScreen.storyboard */,
 				DDEB1F05237D4B8200206351 /* Info.plist */,
@@ -267,6 +273,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DDC786F22380FCD900509051 /* ContentViewModel.swift in Sources */,
+				DDC786F42381391400509051 /* ImagePickerViewController.swift in Sources */,
 				DDEB1EF8237D4B8000206351 /* AppDelegate.swift in Sources */,
 				DDEB1EFA237D4B8000206351 /* SceneDelegate.swift in Sources */,
 				DDEB1EFC237D4B8000206351 /* ContentView.swift in Sources */,
